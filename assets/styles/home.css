@@ -1,0 +1,9 @@
+.greet{
+    position: absolute;
+    top: 0;
+    padding: 20px 30px;
+    color: white;
+}
+body{
+    background-color: #EEF5FF;
+}
